@@ -1,0 +1,10 @@
+<!--pages/time/time.wxml-->
+<button class="btn1" bindtap="getDataFromOneNet">
+已完成数目：</button><!--获取onenet数据-->
+<view class="count">{{kaiguan}}圈</view><!--通过函数是圈数可变-->
+
+<text class='marright'>{{hours}}：{{minute}}：{{second}}</text>
+<button class="aaa"bindtap="start">开始</button>
+<button class="aaa"bindtap="stop">暂停</button>
+<button class="aaa"bindtap="reset">停止</button>
+

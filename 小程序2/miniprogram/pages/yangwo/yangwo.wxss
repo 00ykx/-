@@ -1,0 +1,8 @@
+/* pages/yangwo/yangwo.wxss */
+.height {
+  text-align: center;
+}
+.count{
+  text-align: center;
+  margin-bottom: 10px;
+}

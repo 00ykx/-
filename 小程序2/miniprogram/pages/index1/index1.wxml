@@ -1,0 +1,16 @@
+<!--pages/index1/index1.wxml-->
+
+<view class="title">带上好家伙去运动吧</view>
+<view>  </view>
+<view class="c1">运动项目 </view>
+<button class="btn1">
+    <navigator url="../yangwo/yangwo" open-type="navigate" >
+      <text>仰卧起坐</text>
+    </navigator>
+  </button><!--通过按钮实现页面跳转-->
+
+<button class="btn2">
+    <navigator url="../time/time" open-type="navigate" >
+      <text>跑步</text>
+    </navigator>
+  </button>

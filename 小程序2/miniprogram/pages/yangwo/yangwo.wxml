@@ -1,0 +1,9 @@
+<!--pages/yangwo/yangwo.wxml-->
+<canvas class = "canvas" id="chart3"
+canvas-id="tempe"></canvas>
+<button class="btn1" bindtap="getDataFromOneNet">
+已完成数目：</button>
+<text class="count">{{kaiguan}}个</text>
+
+
+<view class="count">继续加油哦</view>

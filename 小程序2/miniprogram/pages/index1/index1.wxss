@@ -1,0 +1,23 @@
+/* pages/index1/index1.wxss */
+
+.title
+{
+  font-size: 1.5em;/*定义字体大小*/
+  text-align:center;/*定义文本居中对齐*/
+  color:rgb(165, 165, 248);
+ 
+}
+.c1{
+  text-align:center;
+  margin-top: 2em;
+  margin-bottom: 3em;
+}
+.btn1{
+  background:rgb(252, 252, 252);
+  margin-bottom: 2em;
+}
+.btn2{
+  background:rgb(252, 252, 252);
+  margin-bottom: 10px;
+
+}
